@@ -14,7 +14,7 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 - **UX / UI**
 - **React.js** 
 - **Docker**  
-- **TDD**  
+- **Kotlin**  
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
