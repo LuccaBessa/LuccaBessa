@@ -19,11 +19,11 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 - **UX / UI**
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats
 
 ![Lucca Bessa github stats](https://github-readme-stats.vercel.app/api?username=LuccaBessa&show_icons=true&theme=dark)
 
 
-## Most used languages  
+## Most Used Languages
 
 ![Lucca Bessa github used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaBessa&layout=compact&theme=dark)
