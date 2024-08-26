@@ -14,7 +14,6 @@ Welcome to my repository, I hope you can enjoy, suggest and contribute to the pr
 - **TypeScript**
 - **JavaScript**
 - **Kotlin**
-- **Rust**
 - **Go**
 - **UX / UI**
 
